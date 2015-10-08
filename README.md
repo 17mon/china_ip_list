@@ -14,10 +14,10 @@
 
 5、有些多 WAN 口路由器和防火墙设备有 ISP 文件的需求，我们愿意与厂商合作，由我们来提供这个看着细小但实际上很影响用户体验但对我们来说相对轻松的数据，合作形式多样，有兴趣，请与我们联系。
 
-6、IP 地理位置数据库 QQ 群: 346280296
+6、IP 地理位置数据库相关讨论 QQ 群: 346280296
 
 **相关链接：**
 
 1、[IP 地址库免费版下载](http://www.ipip.net/ipdb.html "IPIP.NET IP 归属地数据库")
 
-2、[IPIP.NET 网络工具集](https://www.ipip.net/traceroute.php "IPIP.NET 网络工具集") 目前由我和同事业余在维护的，全球有 200 多个监测点可供使用，traceroute 功能尤其强大和准确，是你 ping 和 traceroute 的好帮手。
+2、[IPIP.NET 网络工具集](https://www.ipip.net/traceroute.php "IPIP.NET 网络工具集") 目前由我和同事在维护的，全球有 250 多个监测点可供使用，traceroute 功能尤其强大和准确，是你 ping 和 traceroute 的好帮手。
