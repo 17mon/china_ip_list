@@ -6,7 +6,7 @@
 
 1、一般每月初更新一次。
 
-2、本数据并非完全基于路由表数据生成，Whois 信息中标注为中国但未做 BGP 公告的数据，也会被列入。
+2、本数据并非完全基于路由表数据生成，IP WHOIS 信息中标注为中国但未做 BGP 公告的数据，也会被列入。
 
 3、因更新频度限制，不对其数据质量做任何承诺，但有问题，可以去我们的 QQ 群反馈，我们根据情况考虑应急更新。
 
@@ -26,4 +26,4 @@
 
 2、[IPIP.NET 网络工具集](https://www.ipip.net/traceroute.php "IPIP.NET 网络工具集") 目前由我和同事在维护的，全球有 330 多个监测点可供使用，traceroute 功能尤其强大和准确，是你 ping 和 traceroute 的好帮手。
 
-3、[Best Trace 工具](https://www.ipip.net/download.html#ip_trace "Best Trace 工具") 如果你想了解本机发起的 traceroute 情况，请使用我们这个工具，备受好评哦。
+3、[Best Trace 工具](https://www.ipip.net/download.html#ip_trace "Best Trace 工具") 如果你想了解本机发起的 traceroute 情况，并且有地理路径地图可视化需求，请使用我们这个工具，备受好评哦。
