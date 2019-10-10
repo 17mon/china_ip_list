@@ -24,6 +24,6 @@
 
 1、[IP 地址库免费版下载](https://www.ipip.net/ipdb.html "IPIP.NET IP 归属地数据库")
 
-2、[IPIP.NET 网络工具集](https://www.ipip.net/traceroute.php "IPIP.NET 网络工具集") 目前由我和同事在维护的，全球有 300 多个监测点可供使用，traceroute 功能尤其强大和准确，是你 ping 和 traceroute 的好帮手。
+2、[IPIP.NET 网络工具集](https://tools.ipip.net/traceroute.php "IPIP.NET 网络工具集") 目前由我和同事在维护的，全球有 300 多个监测点可供使用，traceroute 功能尤其强大和准确，是你 ping 和 traceroute 的好帮手。
 
 3、[Best Trace 工具](https://www.ipip.net/download.html#ip_trace "Best Trace 工具") 如果你想了解本机发起的 traceroute 情况，并且有地理路径地图可视化需求，请使用我们这个工具，备受好评哦。
