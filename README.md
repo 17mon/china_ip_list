@@ -20,6 +20,8 @@
 
 8、IP 地理位置数据库相关讨论 QQ 群: 346280296。
 
+9、本数据使用 CC-BY-NC-SA 4.0 授权许可。
+
 **相关链接：**
 
 1、[IP 地址库试用版下载](https://www.ipip.net/ipdb.html "IPIP.NET IP 归属地数据库")
